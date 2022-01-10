@@ -1,9 +1,1 @@
- Volume in drive E is Work
- Volume Serial Number is 8628-423E
-
- Directory of E:\my project
-
-10-01-2022  13:44    <DIR>          .
-10-01-2022  13:44                 0 test1.txt
-               1 File(s)              0 bytes
-               1 Dir(s)  311,114,469,376 bytes free
+change 1
